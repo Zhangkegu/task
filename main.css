@@ -1,0 +1,33 @@
+form{
+    width: 325px;
+    background-color: lightskyblue;
+    margin: 50px auto;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+select{
+    width: 80px;
+    height: 30px;
+    margin: 3px auto;
+    border-radius: 10px;
+    background-color: springgreen;
+    color: indigo;
+    font-family: 幼圆;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+}
+button{
+    width: 150px;
+    height: 40px;
+    display: block;
+    border-radius: 10px;
+    border:1px solid green;
+    background-color: palegreen;
+    margin: 200px auto;
+}
+button:hover{
+    background-color: yellow;
+    font-weight: bolder;
+}
